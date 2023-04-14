@@ -1,0 +1,16 @@
+C:\Users\akyol\OneDrive\Masaüstü\Görsel Programlama S3D2 Vize Ödevi\VizeOdevi\VizeOdevi\bin\Debug\VizeOdevi.exe.config
+C:\Users\akyol\OneDrive\Masaüstü\Görsel Programlama S3D2 Vize Ödevi\VizeOdevi\VizeOdevi\bin\Debug\VizeOdevi.exe
+C:\Users\akyol\OneDrive\Masaüstü\Görsel Programlama S3D2 Vize Ödevi\VizeOdevi\VizeOdevi\bin\Debug\VizeOdevi.pdb
+C:\Users\akyol\OneDrive\Masaüstü\Görsel Programlama S3D2 Vize Ödevi\VizeOdevi\VizeOdevi\obj\Debug\VizeOdevi.csproj.AssemblyReference.cache
+C:\Users\akyol\OneDrive\Masaüstü\Görsel Programlama S3D2 Vize Ödevi\VizeOdevi\VizeOdevi\obj\Debug\VizeOdevi.Form1.resources
+C:\Users\akyol\OneDrive\Masaüstü\Görsel Programlama S3D2 Vize Ödevi\VizeOdevi\VizeOdevi\obj\Debug\VizeOdevi.Form2.resources
+C:\Users\akyol\OneDrive\Masaüstü\Görsel Programlama S3D2 Vize Ödevi\VizeOdevi\VizeOdevi\obj\Debug\VizeOdevi.Properties.Resources.resources
+C:\Users\akyol\OneDrive\Masaüstü\Görsel Programlama S3D2 Vize Ödevi\VizeOdevi\VizeOdevi\obj\Debug\VizeOdevi.csproj.GenerateResource.cache
+C:\Users\akyol\OneDrive\Masaüstü\Görsel Programlama S3D2 Vize Ödevi\VizeOdevi\VizeOdevi\obj\Debug\VizeOdevi.csproj.CoreCompileInputs.cache
+C:\Users\akyol\OneDrive\Masaüstü\Görsel Programlama S3D2 Vize Ödevi\VizeOdevi\VizeOdevi\obj\Debug\VizeOdevi.exe
+C:\Users\akyol\OneDrive\Masaüstü\Görsel Programlama S3D2 Vize Ödevi\VizeOdevi\VizeOdevi\obj\Debug\VizeOdevi.pdb
+C:\Users\akyol\OneDrive\Masaüstü\Görsel Programlama S3D2 Vize Ödevi\VizeOdevi\VizeOdevi\obj\Debug\VizeOdevi.Form3.resources
+C:\Users\akyol\OneDrive\Masaüstü\Görsel Programlama S3D2 Vize Ödevi\VizeOdevi\VizeOdevi\obj\Debug\VizeOdevi.Form4.resources
+C:\Users\akyol\OneDrive\Masaüstü\Görsel Programlama S3D2 Vize Ödevi\VizeOdevi\VizeOdevi\obj\Debug\VizeOdevi.Form5.resources
+C:\Users\akyol\OneDrive\Masaüstü\Görsel Programlama S3D2 Vize Ödevi\VizeOdevi\VizeOdevi\obj\Debug\VizeOdevi.DateCalculator.resources
+C:\Users\akyol\OneDrive\Masaüstü\Görsel Programlama S3D2 Vize Ödevi\VizeOdevi\VizeOdevi\obj\Debug\VizeOdevi.unknown.resources
